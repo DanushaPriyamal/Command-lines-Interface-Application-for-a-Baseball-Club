@@ -1,0 +1,9 @@
+- Created a command-line interface application for a baseball club using the C++ programming language.
+- Used Visual Studio as the development IDE.
+- The application facilitate:
++++ User login and logout.
++++ Display player information.
++++ Add new players.
++++ Manage teams.
++++ Search for players.
++++ View team details.
